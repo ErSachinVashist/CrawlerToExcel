@@ -5,11 +5,13 @@
   "license": "MIT",
   "dependencies": {
     "async-each-series": "^1.1.0",
+    "axios": "^1.4.0",
     "crawler": "^1.4.0",
     "each": "^2.4.0",
     "exceljs": "^4.3.0",
     "jsdom": "^22.1.0",
     "lodash": "^4.17.21",
+    "valid-url": "^1.0.9",
     "write-json-file": "^5.0.0"
   }
 }
