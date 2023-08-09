@@ -29,8 +29,8 @@ const saveCompanyDetails = async (uri, next) => {
             next()
         }
     }])
-
 }
+
 const saveCompany = (res, cb) => {
     const $ = res.$,
         out = $('.search-result-left'),
